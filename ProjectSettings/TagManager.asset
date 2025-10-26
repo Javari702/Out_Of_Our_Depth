@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - BreakableWall
+  - Teleporter Spot
+  - Outline
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - groundLayer
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1736596873
+    locked: 0
+  - name: Farground
+    uniqueID: 3147013539
+    locked: 0
+  - name: Player
+    uniqueID: 16485671
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 677500837
+    locked: 0
+  m_RenderingLayers:
+  - Default
